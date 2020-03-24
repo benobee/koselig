@@ -1,0 +1,20 @@
+{
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": false,
+    "codeFrame": true
+  },
+  "rules": {
+    "import/prefer-default-export": 0,
+    "default-case": 0,
+    "strict": 0,
+    "react/prop-types": 0,
+    "no-return-assign": 0,
+    "react/jsx-props-no-spreading": 0
+  },
+  "globals": {
+    "document": true
+  },
+  "extends": "airbnb"
+}
