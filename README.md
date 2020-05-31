@@ -104,6 +104,3 @@ controller.on("navbar", (el) => {
 [15]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 [16]: https://developer.mozilla.org/docs/Web/API/NodeList
-# koselig
-# koselig
-# koselig
