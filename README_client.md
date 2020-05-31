@@ -1,0 +1,1 @@
+You must create a file called "config.js" and add value for username and password.
